@@ -8,6 +8,7 @@ public class Main {
 		double sayi = 12.5;
 		
 		
+		
 
 	}
 
