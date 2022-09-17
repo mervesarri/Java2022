@@ -13,6 +13,7 @@ public class Main {
 		System.out.println("Öğrenci sayısı : "+ögrenciSayisi);
 		System.out.println("Öğrenci sayısı : "+ögrenciSayisi);
 
+		
 	}
 
 }
