@@ -7,7 +7,7 @@ public class Main {
 		int sonuc = dortIslem.Topla(8, 2);
 		System.out.println(sonuc);
 
-		int sonuc1 = dortIslem.Cıkar(8, 2);
+		int sonuc1 = dortIslem.Cikar(8, 2);
 		System.out.println(sonuc1);
 
 		int sonuc2 = dortIslem.Carp(8, 2);
