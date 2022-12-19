@@ -21,8 +21,8 @@ public class Main {
 		System.out.println("Silindi");
 	}
 
-	public static void güncelle() {
-		System.out.println("Güncellendi");
+	public static void guncelle() {
+		System.out.println("Guncellendi");
 	}
 
 	public static int topla(int sayi1, int sayi2) {
